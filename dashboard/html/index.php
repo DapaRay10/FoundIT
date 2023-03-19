@@ -184,10 +184,15 @@
               <div class="navbar-nav align-items-center">
                 <div class="nav-item d-flex align-items-center">
                   <h3 style="padding-top: 15px;">Home</h3>
+                  <a href="../../index.html">
+
+                    <button type="submit" class="btn btn-primary" >logout</button>
+                  </a>
                 </div>
               </div>
             </div>
           </nav>
+          
 
           <!-- / Navbar -->
 

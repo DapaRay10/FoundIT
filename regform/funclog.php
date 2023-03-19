@@ -9,7 +9,7 @@
             header("Location:".BASE_URL."login.html");
             exit();
         }else{
-            header("Location: ../html/table.php");
+            header("Location: ../dashboard/html/index.php");
         }
 
         
